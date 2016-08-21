@@ -5,7 +5,7 @@
 A program/game which displays my portfolio pieces. Move with mouse and wasd (or mouse and arrow keys), and then click on the articles within the room to either bring up a new room (folder) or interact with a piece of the portfolio). The idea behind the porfolio is that it is just reading through folders and finding the files within those folders so other portfolio pieces can be easily added.</br>
 </br>
 </br>
-It doesn't do much on it's own, as it needs data to create the portfolio pieces, download the zip to see it in action. Or view the webm. Pakcaged_readme.txt is the txt that will go alongside the usable portfolio, it gives some more explanation on how to use the program.
+It doesn't do much on it's own, as it needs data to create the portfolio pieces, download the 'example/' folder to see it in action. Or view the webm. Pakcaged_readme.txt is the txt that will go alongside the usable portfolio, it gives some more explanation on how to use the program.
 </br>
 V1
 </br>
