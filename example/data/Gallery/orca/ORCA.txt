@@ -1,0 +1,6 @@
+Optimal Reciprocal Collision Avoidance - A method of agents to avoid each other.
+Skills:  
+Programming – C++, Glut, OpenGL - A 2d graphical representation of a number of agents avoiding each other.  
+Programming Commenting - Code was commented to keep the code maintainable by others.  
+Math – Trigonometry - Math was used for position and movement calculations.
+Artificial Intelligence - Each agent required artificial intelligence to know how to avoid the other agents.  

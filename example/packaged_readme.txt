@@ -1,0 +1,1 @@
+If you don't want to use the program feel free to browse through the folders using a file explorer as you wish, start with the 'data/' folder. There is also 'portfolio_video.webm' which is a video of the program running, this video is of an older version of the portfolio.

@@ -1,0 +1,5 @@
+Clone of Minesweeper  
+Skills:  
+Coding  
+2D Graphics  
+Understanding of Systems  

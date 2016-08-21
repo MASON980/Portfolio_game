@@ -1,0 +1,5 @@
+Click on the screen to toggle a marker. Areas on the map will be coloured based upon which marker is closest.  
+Skills:  
+C++ - Coding  
+Glut - 2D graphics programming  
+Math - Understanding of different geometry distance  
